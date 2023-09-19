@@ -2,5 +2,5 @@
 
 
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: https://www.linkedin.com/in/bhanu07/
