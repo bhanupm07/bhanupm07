@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhanuconnects" target="blank"><img src="https://img.shields.io/twitter/follow/bhanuconnects?logo=twitter&style=for-the-badge" alt="bhanuconnects" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on a **food ordering site**
 
 - 🌱 I’m currently learning **Node.js, express.js and TypeScript.**
 
