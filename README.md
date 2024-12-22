@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/bhanuconnects" target="blank"><img src="https://img.shields.io/twitter/follow/bhanuconnects?logo=twitter&style=for-the-badge" alt="bhanuconnects" /></a> </p>
 
-- 🔭 I’m currently working on a **food ordering site**
+- 🔭 I’m currently working on a **trading product**
 
 - 🌱 I’m currently learning **Node.js, express.js and TypeScript.**
 
 - 📫 How to reach me **bpmahant2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/t0iu1vo5zf7r41t470jpu/Bhanu_Resume.pdf?rlkey=xyd4qeu0srh30aziv904sjbx8&dl=0)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VaMYoIxNgOdY-LfMWdJMmWkWzvqFEcxY/view?usp=sharing)
 
 - ⚡ Fun fact **I am not from CS background**
 
