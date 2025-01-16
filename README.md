@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **trading product**
 
-- 🌱 I’m currently learning **Node.js, express.js and TypeScript.**
+- 🌱 I’m currently learning **Next.js and TypeScript.**
 
 - 📫 How to reach me **bpmahant2003@gmail.com**
 
